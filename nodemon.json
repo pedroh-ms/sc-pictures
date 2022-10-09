@@ -1,0 +1,4 @@
+{
+    "verbose": true,
+    "watch": ["./app.js", "./views/index.ejs", "./public/style.css", "./public/script.js"]
+}

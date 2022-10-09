@@ -1,0 +1,4 @@
+node_modules/
+pictures/*.jpg
+*~
+!pictures/20220112_141329.jpg
